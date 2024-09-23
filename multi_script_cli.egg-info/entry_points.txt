@@ -1,0 +1,4 @@
+[console_scripts]
+devopscd = scripts.devopscd:cli
+devopsci = scripts.devopsci:cli
+devopsinit = scripts.devopsinit:cli
